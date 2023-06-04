@@ -1,3 +1,4 @@
+*.sql linguist-detectable=true
 ramen_ratings_python/ramen_ratings.html linguist-language=Python
 sql_murder_mystery/process_documentation.html linguist-language=SQL
 
