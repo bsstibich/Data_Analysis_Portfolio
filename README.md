@@ -1,2 +1,4 @@
 # Data_Analysis_Portfolio
-This repository acts as my portfolio to give any interested party an insight and showing of my data analytics skills!
+This repository serves as a comprehensive portfolio that offers interested parties a valuable glimpse into my proficiency and expertise in the field of data analytics. It showcases a diverse range of projects, each emphasizing my adeptness in four crucial data analytics skills: Excel/Google Sheets, Python, SQL, and Tableau. Every project within this portfolio is accompanied by its respective dataset, necessitating dedicated efforts in data cleaning, generating insights, and addressing unique challenges.
+
+For a comprehensive understanding of my work, I highly recommend downloading the repository and accessing it on your computer. This will provide a holistic view of my skills and achievements, enabling you to evaluate my suitability for potential data analytics roles.
